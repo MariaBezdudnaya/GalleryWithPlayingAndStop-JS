@@ -7,7 +7,7 @@ let loadingCount = 5; //количество загруженных изобра
 
 //Функция, отвечающая за обновление таймера:
 function updateTimer() {
-  time -= 0.3; //уменьшаем значение таймера на 0.3 процента (скорость загрузки изображений)
+  time -= 0.2; //уменьшаем значение таймера на 0.2 процента (скорость загрузки изображений)
   if (time <= 0) {
     //когда время таймера заканчивается, выбирается следующее изображение,
     selectImage(selectedIndex + 1);
@@ -120,4 +120,5 @@ function init() {
   });
   document.querySelector(".play").addEventListener("click", toggleTimer);
 }
+
 window.addEventListener("DOMContentLoaded", init);

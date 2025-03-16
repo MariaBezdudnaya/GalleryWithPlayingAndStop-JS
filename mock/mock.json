@@ -1,0 +1,12 @@
+[
+  { "id": 1, "download_url": "./img/Copper.jpg", "author": "Alejandro Escamilla" },
+  { "id": 2, "download_url": "./img/Dew.jpg", "author": "Guillaume Kurkdjian" },
+  { "id": 3, "download_url": "./img/Lighthouse.jpg", "author": "Steven Spillebeen" },
+  { "id": 4, "download_url": "./img/LonelyBloom.jpg", "author": "Christopher Campbell" },
+  { "id": 1, "download_url": "./img/MonasteryGarden.jpg", "author": "Alejandro Escamilla" },
+  { "id": 2, "download_url": "./img/Mushroom.jpg", "author": "Guillaume Kurkdjian" },
+  { "id": 3, "download_url": "./img/Ocean.jpg", "author": "Steven Spillebeen" },
+  { "id": 4, "download_url": "./img/SeedGreen.jpg", "author": "Christopher Campbell" },
+  { "id": 2, "download_url": "./img/StopMotion.jpg", "author": "Guillaume Kurkdjian" },
+  { "id": 3, "download_url": "./img/Waterfalls.jpg", "author": "Steven Spillebeen" }
+]
